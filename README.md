@@ -1,229 +1,209 @@
 # Digital-Marketing-Audit-and-Landing-Page-Project
-This project presents a complete digital marketing audit and a high-conversion landing page design for MMS Solutions, a smartphone and electronics repair service based in Chennai.
-It includes an end-to-end evaluation of website performance, SEO, UX, content, and digital strategy, supported by test results and a redesigned landing page.
+This project evaluates and improves the digital presence of MMS Mobile Service Center, Chennai, using a complete SEO Audit, Performance Audit, UX Review, and Landing Page Optimization workflow.
+The objective is to identify issues affecting visibility, user experience, page performance, and search ranking — and implement actionable improvements.
 
-# Project Objective
+# Project Objectives
 
-To evaluate the company’s current digital presence and create a roadmap for improving:
+- Conduct a full digital audit of the company’s website
 
-- Website design & navigation
+- Evaluate SEO strengths & gaps
 
-- SEO and technical health
+- Analyze accessibility, readability, keyword density, and content quality
 
-- Content quality and CTAs
+- Assess page performance for both mobile & desktop
 
-- Readability & performance
+- Identify technical issues (duplicate content, missing tags, broken links)
 
-- Broken links & duplicate content
+- Create an optimized landing page to improve engagement & conversions
 
-- Conversion-focused landing page
-
-- Overall digital marketing strategy
-
-Final output includes a business-focused audit report and a redesigned landing page.
+- Provide business-ready recommendations
 
 # Tech Stack & Tools Used
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>SEO & Site Audit</td>
+    <td>Siteliner, SEO Meta in 1-Click, Keyword Density Analyzer</td>
+  </tr>
+  <tr>
+    <td>Performance Testing</td>
+    <td>PageSpeed Insights (Mobile + Desktop)</td>
+  </tr>
+  <tr>
+    <td>Readability Testing</td>
+    <td>WebFX Readability Analyzer</td>
+  </tr>
+  <tr>
+    <td>Design & Content</td>
+    <td>Canva / Figma (for page elements), HTML Preview (for Landing Page)</td>
+  </tr>
+  <tr>
+    <td>Documentation</td>
+    <td>PowerPoint, Markdown (GitHub)</td>
+  </tr>
+</table>
 
-- SEO Tools — Siteliner, PageSpeed Insights, Google Mobile Test
+# Dataset / Audit Inputs
 
-- Readability Tool — WebFX Readability Checker
+This project uses real-time audit outputs from:
 
-- Design & UX Audit — Manual evaluation + competitive benchmarking
+- Siteliner Report (duplicate content, broken links, page stats)
 
-- PowerPoint — Professional audit report
+- Google PageSpeed Insights (performance metrics)
 
-- WordPress — Landing page creation
+- SEO Meta Analyzer (meta tags, headers, images, links)
 
+- Keyword Density Analyzer
 
-# Company Selected – MMS Solutions
+- Readability Testing CSV output
 
-- MMS Solutions offers:
+- Landing Page Built for MMS Service (hosted externally)
 
-- Smartphone & micro-electronic repair services
+# Key Findings (Summary)
 
-- 10+ years of experience
+<H3><b>1. SEO Issues Identified</b></H3>
 
-- Multiple Chennai service centers
+- Missing canonical URL
 
-- Fast turnaround & certified engineers
+- Missing robots meta tag
 
-This business was analyzed to improve online visibility, conversions, and customer engagement.
+- No defined publisher tag
 
-📂 Files Included
-📁 Audit Report
+- Overuse of some keywords (leading to keyword stuffing risk)
 
-Digital_Marketing_Audit_Presentation.pptx
+- Several H1/H2 imbalance issues
 
-Complete 30+ slide PPT covering UX, SEO, Content, Speed, Broken Links, Duplicate Content & Strategic Improvements.
+- 69 links, but many lack alt text or clarity
 
-📁 Landing Page
+<H3><b>2. Content Quality</b></H3>
 
-MMS_Service_Landing_Page.url
+- 21% duplicate content, harming Google ranking
 
-Direct link to the redesigned, conversion-optimized landing page created for the project.
+- Only 11% unique content (needs improvement)
 
-📁 Screenshots & Evidence
+- Readability score: 66.4, understandable by ages 12–13
 
-duplicate_content_test.png — Siteliner report showing 21% duplicate content
+- Content too generic → needs clearer service differentiation
 
-readability_score.png — Readability score (66.4/100)
+<H3><b>3. Performance Scores</b></H3>
+<table>
+  <tr>
+    <th>Metric</th>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>Performance</td>
+    <td>91</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>Accessibility</td>
+    <td>88</td>
+    <td>81</td>
+  </tr>
+  <tr>
+    <td>Best Practices</td>
+    <td>100</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>SEO</td>
+    <td>83</td>
+    <td>83</td>
+  </tr>
+</table>
 
-(Optional) Pagespeed, mobile/desktop score screenshots
-(Add more screenshots inside the folder if needed)
+Major Gap: Mobile performance requires improvement (slow load time).
 
-🔍 Key Audit Findings
-1. Website Design & User Experience
+<H3><b>4. UX/Design Observations</b></H3>
 
-Red banner distracts users
+- Header overload (too many contact numbers)
 
-Contact information inconsistent
+- Too many images above the fold
 
-Duplicate menus & poor navigation
+- No clear first CTA (Book Service / Call Now)
 
-Homepage lacks CTA or booking form
+- Navigation cluttered
 
-Mobile version lacks WhatsApp/Call quick buttons
+- Hero section lacks unique value proposition
 
-2. Technical SEO & Performance
+# Landing Page Creation
 
-Mobile speed: 41/100, Desktop: 69/100
+A new, more optimized Landing Page was designed focusing on:
 
-Canonical tag missing → duplicate content risk
+- Clean layout
 
-Multiple H1 tags (13 detected)
+- Single CTA
 
-Images missing alt text
+- Optimized headline
 
-Broken links found: 17
+- Better mobile responsiveness
 
-3. Content Audit
+- Improved readability
 
-21% duplicate content across pages
+- SEO-optimized meta title & description
 
-Keywords not consistently optimized
+<b>Landing Page Link (from your repo)</b>
 
-Missing localized terms like “mobile repair Chennai”
+[Landing Page – MMS Service](Landing_Page/Landing%20page%20.url)
 
-Homepage lacks strong CTAs
 
-Limited service descriptions
+# Audit Report PPT
 
-🎯 Strategic Recommendations
-🟦 Fix Website UX/UI
+The complete audit findings, recommendations, and redesigned landing page are available in:
 
-Replace red banner with sticky Call/WhatsApp buttons
+[Audit Report – Digital Presence Analysis](Audit_Report/Audit%20and%20Analysis%20for%20Effective%20Digital%20Presence.pptx)
 
-Add booking form on homepage
 
-Standardize menus & header
+# Project Structure
+Digital-Marketing-Audit-and-Landing-Page-Project/<br>
+│<br>
+├── Audit_Report/<br>
+│   └── Audit and Analysis for Effective Digital Presence.pptx<br>
+│<br>
+├── Landing_Page/<br>
+│   └── Landing page.url<br>
+│<br>
+├── Screenshots/<br>
+│   ├── PageSpeed(Desktop).png<br>
+│   ├── PageSpeed(Mobile).png<br>
+│   ├── mms service readability test.png<br>
+│   ├── readability.csv<br>
+│   ├── site logo.jpg<br>
+│   └── siteliner duplicate content.png<br>
+│<br>
+└── README.md<br>
 
-Improve readability by switching to lighter theme
+# Final Recommendations
 
-🟧 Improve SEO & Performance
+- Improve content uniqueness (reduce duplicate content to <5%)
 
-Compress images to improve speed
+- Add canonical URLs & robots meta tags
 
-Add canonical tags
+- Compress and lazy-load images
 
-Add robots meta tag
+- Improve mobile performance → reduce initial image weight
 
-Add meaningful alt text
+- Add clear CTAs for better conversions
 
-Reduce duplicate content
+- Rewrite service descriptions in unique, SEO-optimized format
 
-Fix heading structure
+- Add local business schema markup
 
-🟩 Content & Conversion
+- Fix broken links from Siteliner report
 
-Add FAQs, testimonials, pricing
+# Outcome
 
-Add strong CTAs on homepage
+This project delivers:
 
-Improve mobile-first design
+- A complete digital audit
 
-Clear value propositions and trust markers
+- A redesigned landing page
 
-📣 Digital Marketing Strategy
-Target Audience
+- Insightful SEO & performance improvements
 
-Smartphone users aged 18–40
-
-Searching for fast & reliable repair service
-
-High-intent keywords such as “OnePlus repair near me”
-
-Channels Recommended
-
-SEO (service pages + GMB optimization)
-
-Google Ads (search ads for repair keywords)
-
-Social Media (FB/Instagram reels & before/after repairs)
-
-WhatsApp Marketing (booking confirmations & reminders)
-
-Landing Page (primary conversion hub)
-
-Campaign Approach
-
-Attract → SEO, Google Ads
-
-Engage → Social media + reviews
-
-Convert → Landing Page + WhatsApp CTA
-
-Retain → WhatsApp remarketing
-
-🖥️ Landing Page Highlights
-
-The redesigned landing page includes:
-
-Sticky Call Now & WhatsApp CTA
-
-Simple & clean layout
-
-Service categories with icons
-
-Service center locations
-
-Trust elements (10+ years, certified engineers)
-
-Fast booking form
-
-Mobile-first layout
-
-👉 Visit Landing Page:
-Linked through the .url file inside the Landing_Page folder.
-
-📁 Project Structure
-Digital-Marketing-Audit-and-Landing-Page-Project/
-│
-├── Audit_Report/
-│   └── Digital_Marketing_Audit_Presentation.pptx
-│
-├── Landing_Page/
-│   └── MMS_Service_Landing_Page.url
-│
-├── Screenshots/
-│   ├── duplicate_content_test.png
-│   ├── readability_score.png
-│   ├── page_speed_mobile.png
-│   ├── page_speed_desktop.png
-│
-└── README.md
-
-🏁 Conclusion
-
-This project provides a complete digital marketing audit and a fully optimized landing page, offering clear insights for improving:
-
-Website usability
-
-SEO & technical performance
-
-Content quality
-
-Traffic-to-lead conversion
-
-Customer engagement
-
-It serves as a strong demonstration of practical marketing, UX, SEO, and conversion-rate optimization skills.
+- A polished, interviewer-ready case study for marketing roles
